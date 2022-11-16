@@ -1,0 +1,12 @@
+img{
+    width: 400px;
+    height: 400px;
+}
+p{
+    padding: 0 10px;
+    line-height: 1.8;
+    color: rgb(19, 9, 9);
+}
+html{
+    background: rgb(233, 212, 184);
+}
